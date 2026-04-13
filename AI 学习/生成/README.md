@@ -3,3 +3,5 @@
 [基础](basics.md)
 
 [论文](论文/)
+
+[blog](blog/)
